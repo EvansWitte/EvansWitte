@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EvansWitte
+- 👋 Hi, I’m Evans Witte
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning more skills about Data Analytics @neue fische GmbH
-- 📫 How to reach me via evo.witte@gmail.com
+- 📫 You can reach me at: evo.witte@gmail.com
 
 <!---
 EvansWitte/EvansWitte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
