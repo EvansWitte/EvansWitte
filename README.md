@@ -2,7 +2,8 @@
 # Welcome! 👋🏿
 
 I'm Evans, <br>
-A hardworking, motivated and team-oriented Junior Data Analyst with a passion for maths and statistics, technology and programming, visualisation as well as problem solving to develop solutions to save costs, improves revenues and drive customer satisfaction. I'm addicted to learning and growing every day, currently learning more skills about Data Analytics @neue fische GmbH 
+A hardworking, motivated and team-oriented Junior Data Analyst with a passion for maths and statistics, technology and programming, visualisation as well as problem solving to develop solutions to save costs, improves revenues and drive customer satisfaction. I'm addicted to learn and grow every day. <br> 
+Currently learning more skills about Data Analytics @neue fische GmbH 
 
 
 ## 🛠 Working tools
