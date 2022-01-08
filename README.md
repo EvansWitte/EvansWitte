@@ -22,7 +22,7 @@ Currently learning more skills about Data Analytics @neue fische GmbH
 ## 📮 How to reach me
 
 * __Email:__ evo.witte@gmail.com
-
+* __LinkedIn:__ https://www.linkedin.com/in/evans-witte421992/
 
 ## Data Analytics Portfolio
 __Have a look at pinned projects below__ <br>
