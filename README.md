@@ -1,5 +1,5 @@
 
-# Welcome! 👋🏿
+# Welcome! 👋🏿 👨🏿‍💻
 
 I'm Evans, <br>
 A Data Analyst with passion for maths and statistics, technology and programming, visualization as well as problem solving. I'm addicted to learn and grow every day. <br> 
