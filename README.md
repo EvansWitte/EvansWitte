@@ -12,8 +12,7 @@ Currently learning more skills about Data Analytics @neue fische GmbH
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/matplotlib.png" width=7.5% height=7.5%> 
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/seabron.png" width=7.5% height=7.5%>
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/Scikit_learn_logo_small.svg.png" width=7.5% height=7.5%> 
-<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/scipy.png" width=7.5% height=7.5% />
-<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/statsmodels.jpeg" width=7.5% height=7.5% /><br>
+<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/scipy.png" width=7.5% height=7.5% /><br>
 
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/postgresql-ar21.png" width=20% height=20%> <br>
 
