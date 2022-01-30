@@ -6,7 +6,7 @@ A Data Analyst with passion for maths and statistics, technology and programming
 Currently learning more skills about Data Analytics @neue fische GmbH 
 
 
-## 🛠 Working tools
+## 🛠 Languages and Tools
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/Python_logo_and_wordmark.svg.png" width=20% height=20% />  <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/NumPy_logo_2020.svg.png" width=7.5% height=7.5%>
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/Pandas_logo.svg.png" width=7.5% height=7.5%>
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/matplotlib.png" width=7.5% height=7.5%> 
