@@ -20,7 +20,7 @@ Currently learning more skills about Data Analytics @neue fische GmbH
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/tableaulogo_highres.png" width=20% height=20%> 
 
 ## 📮 How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/-Evshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
+[![Linkedin Badge](https://img.shields.io/badge/-evanswitte-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/evans-witte421992/)](https://www.linkedin.com/in/evans-witte421992/)
 
 * __Email:__ evans.witte@gmx.net
 * __LinkedIn:__ https://www.linkedin.com/in/evans-witte421992/
