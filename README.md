@@ -26,7 +26,8 @@ Currently learning more skills about Data Analytics @neue fische GmbH
 
 
 ## Data Analytics Portfolio
-__Have a look at pinned projects below__ <br>
-<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/data_analyse.gif" width=45% height=45%> 
+__Have a look at pinned projects below__<br>
+<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/data_analyse.gif" width=30% height=30%> 
+
 
 ---
