@@ -1,7 +1,6 @@
 
-# Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
+# Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">, I'm Evans
 
-Hi I'm Evans, <br>
 A Data Analyst with passion for maths and statistics, technology and programming, visualization as well as problem solving. I'm addicted to learn and grow every day. <br> 
 Currently learning more skills about Data Science at [neuefische GmbH](https://www.neuefische.de/)
 
