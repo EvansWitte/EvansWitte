@@ -5,7 +5,7 @@ A data enthusiast with passion for maths and statistics, technology and programm
 Currently learning more skills about Data Science at [neuefische GmbH](https://www.neuefische.de/)
 
 ## 🛠 Languages and Tools
-<img src="https://github.com/detain/svg-logos/blob/master/svg/python-3.svg" alt="python" height="55"/> <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/NumPy_logo_2020.svg.png" width=7.5% height=7.5%>
+<img src="https://github.com/detain/svg-logos/blob/master/svg/python-3.svg" alt="python" height="55"/> <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/NumPy_logo_2020.svg.png" width=7.5% height=7.5%/>
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/Pandas_logo.svg.png" width=7.5% height=7.5%/>
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/matplotlib.png" width=7.5% height=7.5%> 
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/seabron.png" width=7.5% height=7.5%>
