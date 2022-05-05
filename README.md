@@ -11,7 +11,8 @@ Currently learning more skills about Data Science at [neuefische GmbH](https://w
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/seabron.png" width=7.5% height=7.5%>
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/Scikit_learn_logo_small.svg.png" width=7.5% height=7.5%> 
 <img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/scipy.png" width=7.5% height=7.5% />
-<img src="https://github.com/evanswitte/EvansWitte/blob/main/images/image.png" width=10% height=10% /><br>
+<img src="https://github.com/evanswitte/EvansWitte/blob/main/images/tensorflow-logo.png" width=10% height=10% />
+<br>
 
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="Postgresql" height="55"/>
 
