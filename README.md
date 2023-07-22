@@ -22,7 +22,7 @@ A data enthusiast with passion for complex data challenges, technology and progr
 <h3 align="left"> Portfolio</h3>
 <h5 align="left"> Have a look at pinned projects below</h5>
 
-<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/data_analyse.gif" width=30% height=30%> 
+<img src="https://github.com/EvansWitte/EvansWitte/blob/main/images/data_analyse.gif" align="middle" width=50% height=30%> 
 
 
 ---
